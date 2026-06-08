@@ -26,3 +26,4 @@
 - https://en.wikipedia.org/wiki/CHIP-8 — для загального ознайомлення з історією та принципами роботи системи.
 - https://www.google.com/search?q=https://en.wikipedia.org/wiki/CHIP-8%23Opcode_table — детальна таблиця всіх опкодів.
 - http://devernay.free.fr/hacks/chip8/C8TECH10.HTM - детальне пояснення всього chip8, від роботи процесора до оновлення пікселів 
+<img width="646" height="313" alt="image" src="https://github.com/user-attachments/assets/4f2cb526-763e-4142-9822-abff58ff6d5c" />
